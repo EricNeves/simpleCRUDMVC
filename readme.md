@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="">Features</a> •
-  <a href="">How to User</a>
+  <a href="#features">Features</a> •
+  <a href="#how-to-use">How to User ?</a>
 </p>
 
 ![Screenshot1](.github/screenshotA.png)
@@ -40,7 +40,7 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
   - Responsive Menu
 * HTML/CSS
 
-### How to use 👾
+### How to use ? 👾
 
 Segue-se alguns passos para a execução da aplicação:
 
