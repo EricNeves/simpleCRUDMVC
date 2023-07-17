@@ -264,9 +264,11 @@ header nav ul a:hover {
   justify-content: space-between;
   align-items: center;
 }
+
 .pagination {
   margin-bottom: 3rem;
 }
+
 .pagination a {
   color: var(--ligth);
   background: var(--primary);
@@ -437,6 +439,7 @@ header nav ul a:hover {
     width: 100%;
     margin-top: 1rem;
   }
+
   #signin__link li {
     display: flex;
     justify-content: space-between;
