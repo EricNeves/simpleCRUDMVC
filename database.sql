@@ -7,7 +7,7 @@ create database if not exists shop;
 use shop;
 
 create table if not exists users (
-	id int unsigned not null auto_increment,
+  id int unsigned not null auto_increment,
   username varchar(255) not null,
   email varchar(255) not null,
   passwd varchar(255) not null,
@@ -20,7 +20,7 @@ insert into users (username, email, passwd, avatar) values
 ("Eric Neves", "ericneves@email.com", "$2y$10$fxNfc7Q6AR5jfbtgXTeNiO8w6Kgxm664Mws.Qm0inhS8iJZoSvTPm", "https://avatars.githubusercontent.com/u/32256029?v=4");
 
 create table if not exists products (
-	id int unsigned not null auto_increment,
+  id int unsigned not null auto_increment,
   name varchar(255) not null,
   price decimal(10,2) not null,
   image text not null,
