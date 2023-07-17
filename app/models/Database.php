@@ -15,7 +15,8 @@ class Database
       );
       return $pdo;
     } catch(PDOException $e) {
-      echo $e->getMessage();
+      echo "Desculpa, erro interno, verifique o banco de dados!<br>";
+      exit();
     }
   }
 }
