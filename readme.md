@@ -40,3 +40,11 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
 
 ### How to use
 
+Segue-se alguns passos para a execução da aplicação:
+
+- Iniciar o servidor <b>Apache</b> e o <b>Mysql</b>.
+- Copie a pasta do projeto para dentro do servidor <b>Apache</b>.
+- Ativar o ModRewrite: ```a2enmod rewrite``` ou habilitar nas configurações do <b>Apache</b>.
+- Executar os comandos <b>DDL</b> e <b>DML</b> do arquivo <b>database.sql</b> que se encontra na raiz do projeto.
+
+
