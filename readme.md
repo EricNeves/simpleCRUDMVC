@@ -48,3 +48,11 @@ Segue-se alguns passos para a execução da aplicação:
 - Executar os comandos <b>DDL</b> e <b>DML</b> do arquivo <b>database.sql</b> que se encontra na raiz do projeto.
 
 
+```sh
+
+#Credenciais para acesso
+
+$ email: ericneves@email.com
+$ senha: admin
+
+```
