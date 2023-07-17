@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-  Um CRUD de produtos com PHP, Autenticação, SQL, OPP e arquitetura MVC.
+  Um CRUD de produtos com PHP, SQL, Ajax, Autenticação, Paginação, OOP e arquitetura MVC.
 </h4>
 
 <p align="center">
@@ -19,3 +19,6 @@
   <a href="">Features</a> •
   <a href="">How to User</a>
 </p>
+
+![Screenshot1](.github/screenshot1.png)
+![Screenshot2](.github/screenshot2.png)
