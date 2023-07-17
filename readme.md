@@ -20,8 +20,8 @@
   <a href="">How to User</a>
 </p>
 
-![Screenshot1](.github/screenshot1.png)
-![Screenshot2](.github/screenshot2.png)
+![Screenshot1](.github/screenshotA.png)
+![Screenshot2](.github/screenshotB.png)
 
 ### Features 🔬
 
