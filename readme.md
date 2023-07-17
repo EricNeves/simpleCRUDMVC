@@ -22,3 +22,21 @@
 
 ![Screenshot1](.github/screenshot1.png)
 ![Screenshot2](.github/screenshot2.png)
+
+### Features 
+
+A aplicação explora diversos recursos, como autenticação, permitir ações apenas ao usuário autenticado, rotas dinâmicas, segurança nas rotas, paginação, requisiçoes assíncronas e muito mais.
+
+* PHP
+  - PDO (SQL)
+  - OOP
+  - SPL - Autoload
+* Javascript
+  - Fetch API (Async)
+  - Nullish Operator
+  - Dropdown
+  - Responsive Menu
+* HTML/CSS
+
+### How to use
+
