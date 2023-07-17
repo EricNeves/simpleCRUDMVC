@@ -23,6 +23,8 @@
 ![Screenshot1](.github/screenshotA.png)
 ![Screenshot2](.github/screenshotB.png)
 
+Website: (SimpleCRUDMVC)[https://simplecrudmvc.000webhostapp.com/]
+
 ### Features 🔬
 
 A aplicação explora diversos recursos, como autenticação, permitir ações apenas ao usuário autenticado, rotas dinâmicas, segurança nas rotas, paginação, requisições assíncronas e muito mais.
@@ -43,6 +45,7 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
 Segue-se alguns passos para a execução da aplicação:
 
 - Iniciar o servidor <b>Apache</b> e o <b>Mysql</b>.
+- Configure o arquivo config.php com suas credenciais.
 - Copie a pasta do projeto para dentro do servidor <b>Apache</b>.
 - Ativar o ModRewrite: <b>comando via terminal</b>: ```a2enmod rewrite``` ou habilitar nas configurações do <b>Apache</b>.
 - Executar os comandos <b>DDL</b> e <b>DML</b> do arquivo <b>database.sql</b>, o arquivo se encontra na raiz do projeto.
