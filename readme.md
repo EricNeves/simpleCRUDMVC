@@ -25,7 +25,7 @@
 
 Website: [SimpleCRUDMVC](https://simplecrudmvc.000webhostapp.com/)
 
-### Features 🔬
+### Features
 
 A aplicação explora diversos recursos, como autenticação, permitir ações apenas ao usuário autenticado, rotas dinâmicas, segurança nas rotas, paginação, requisições assíncronas e muito mais.
 
@@ -40,7 +40,7 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
   - Responsive Menu
 * HTML/CSS
 
-### How to use ? 👾
+### How to use
 
 Segue-se alguns passos para a execução da aplicação:
 
