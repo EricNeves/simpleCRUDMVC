@@ -440,6 +440,12 @@ header nav ul a:hover {
     margin-top: 1rem;
   }
 
+  #btn__dropdown {
+    width: 90vw;
+    display: grid;
+    grid-template-columns: 1fr 50px 10px;
+  }
+
   #signin__link li {
     display: flex;
     justify-content: space-between;
