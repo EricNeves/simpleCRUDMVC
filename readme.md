@@ -23,7 +23,7 @@
 ![Screenshot1](.github/screenshotA.png)
 ![Screenshot2](.github/screenshotB.png)
 
-Website: (SimpleCRUDMVC)[https://simplecrudmvc.000webhostapp.com/]
+Website: [SimpleCRUDMVC](https://simplecrudmvc.000webhostapp.com/)
 
 ### Features 🔬
 
