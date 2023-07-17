@@ -5,11 +5,6 @@ const modal = document.querySelector('.deleteModal')
 
 const result = document.querySelector('.result.modal__msg')
 
-
-function remove($id) {
-  console.log($id)
-}
-
 if (document.querySelector('#btnOpenModal')) {
   btnOpenModal.forEach(btn => {
     btn.onclick = function (e) {
