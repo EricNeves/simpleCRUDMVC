@@ -33,6 +33,8 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
   - PDO (SQL)
   - OOP
   - SPL - Autoload
+* SQL
+  - DDL / DML
 * Javascript
   - Fetch API (Async)
   - Nullish Operator
