@@ -30,16 +30,16 @@ Website: [SimpleCRUDMVC](https://simplecrudmvc.000webhostapp.com/)
 A aplicação explora diversos recursos, como autenticação, permitir ações apenas ao usuário autenticado, rotas dinâmicas, segurança nas rotas, paginação, requisições assíncronas e muito mais.
 
 * PHP
-  - PDO (SQL)
-  - OOP
-  - SPL - Autoload
+  - <b>PDO (SQL)</b>
+  - <b>OOP</b>
+  - <b>SPL - Autoload</b>
 * SQL
-  - DDL / DML
+  - <b>DDL / DML</b>
 * Javascript
-  - Fetch API (Async)
-  - Nullish Operator
-  - Dropdown
-  - Responsive Menu
+  - <b>Fetch API (Async)</b>
+  - <b>Nullish Operator</b>
+  - <b>Dropdown</b>
+  - <b>Responsive Menu</b>
 * HTML/CSS
 
 ### How to use
