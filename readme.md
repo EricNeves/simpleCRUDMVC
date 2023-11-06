@@ -9,6 +9,8 @@
   Um CRUD de produtos com PHP, SQL, Ajax, Autenticação, Paginação, OOP e arquitetura MVC.
 </h4>
 
+<p align="center">Data de criação: Jul 17, 2023</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ericneves/simpleCRUDMVC?style=flat-square&logo=github&logoColor=white&color=green">
   <img src="https://img.shields.io/github/languages/top/ericneves/simpleCRUDMVC?style=flat-square&logo=php&logoColor=blue&labelColor=white">
